@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of Web Development",
+      "body": "Web Development is evolving rapidly with new frameworks and tools emerging every day. Staying up to date is crucial for modern developers.",
+      "author": "Mike Chen",
+      "created_at": "2026-01-18T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Why Flutter Is Gaining Popularity",
+      "body": "Flutter allows developers to build cross-platform applications with a single codebase, saving time and resources.",
+      "author": "Sarah Johnson",
+      "created_at": "2026-01-16T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Clean Architecture in Mobile Apps",
+      "body": "Clean architecture helps in building scalable, testable, and maintainable applications by separating concerns.",
+      "author": "Ahmed Hassan",
+      "created_at": "2026-01-14T18:45:00Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "post_id": 1,
+      "commenter": "Pat Wilson",
+      "comment": "The pace of change can be overwhelming sometimes!",
+      "created_at": "2026-01-18T16:00:00Z"
+    },
+    {
+      "id": 2,
+      "post_id": 1,
+      "commenter": "Emily Stone",
+      "comment": "Great insights, staying updated is definitely key.",
+      "created_at": "2026-01-18T18:20:00Z"
+    },
+    {
+      "id": 3,
+      "post_id": 2,
+      "commenter": "David Miller",
+      "comment": "Flutter really changed the way I build apps.",
+      "created_at": "2026-01-16T12:40:00Z"
+    },
+    {
+      "id": 4,
+      "post_id": 2,
+      "commenter": "Linda Brown",
+      "comment": "Hot reload alone makes it worth learning.",
+      "created_at": "2026-01-16T15:10:00Z"
+    },
+    {
+      "id": 5,
+      "post_id": 3,
+      "commenter": "Omar Khaled",
+      "comment": "Clean architecture saved my project more than once.",
+      "created_at": "2026-01-15T09:30:00Z"
+    },
+    {
+      "id": 6,
+      "post_id": 3,
+      "commenter": "Julia Roberts",
+      "comment": "This should be a must-read for junior developers.",
+      "created_at": "2026-01-15T11:00:00Z"
+    }
+  ]
+}
