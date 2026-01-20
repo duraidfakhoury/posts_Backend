@@ -5,6 +5,7 @@
       "title": "The Future of Web Development",
       "body": "Web Development is evolving rapidly with new frameworks and tools emerging every day. Staying up to date is crucial for modern developers.",
       "author": "Mike Chen",
+      "image_url" :"https://www.pexels.com/photo/woman-wearing-black-spaghetti-strap-top-415829/",
       "created_at": "2026-01-18T14:30:00Z"
     },
     {
@@ -12,6 +13,7 @@
       "title": "Why Flutter Is Gaining Popularity",
       "body": "Flutter allows developers to build cross-platform applications with a single codebase, saving time and resources.",
       "author": "Sarah Johnson",
+      "image_url" :"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
       "created_at": "2026-01-16T09:15:00Z"
     },
     {
@@ -19,6 +21,7 @@
       "title": "Clean Architecture in Mobile Apps",
       "body": "Clean architecture helps in building scalable, testable, and maintainable applications by separating concerns.",
       "author": "Ahmed Hassan",
+      "image_url" :"https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg",
       "created_at": "2026-01-14T18:45:00Z"
     }
   ],
@@ -28,6 +31,7 @@
       "post_id": 1,
       "commenter": "Pat Wilson",
       "comment": "The pace of change can be overwhelming sometimes!",
+      "image_url" :"https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
       "created_at": "2026-01-18T16:00:00Z"
     },
     {
@@ -44,7 +48,6 @@
       "comment": "Flutter really changed the way I build apps.",
       "created_at": "2026-01-16T12:40:00Z"
     }
-    
-    
+      
   ]
 }
